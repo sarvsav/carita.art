@@ -5,10 +5,8 @@
   ],
   "automerge": true,
   "labels": [
-    "bot"
-  ],
-  "automergeSchedule": [
-    "* 0-3 * * *"
+    "bot",
+    "automerge"
   ],
   "rebaseWhen": "conflicted"
 }
